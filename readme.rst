@@ -66,7 +66,10 @@ Website **Project Manager** là một hệ thống quản lý đồ án dành ch
    - Đặt project vào thư mục `htdocs`.
    - Khởi động **XAMPP** hoặc **WAMP**.
    - Truy cập URL: `http://localhost/ProjectManager`.
-
+6. **Tài khoản đăng nhập**:
+   - Admin: admin@hotmail.com / Admin110121255*.
+   - Teacher: doanphuocmien / 123456.
+   - Student: nguyenquockhanh / 123456.
 ---
 
  **Chức Năng Trên Website**
